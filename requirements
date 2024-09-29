@@ -1,0 +1,9 @@
+patchify
+cv2
+PIL
+numpy
+matplotlib
+scikit-learn
+keras
+tensorflow
+segmentation-models
